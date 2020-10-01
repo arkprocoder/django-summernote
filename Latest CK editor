@@ -1,0 +1,9 @@
+I have used latest edition on text editing and image adding so on i recommend to use CK editor it's really great and has many functionality easy to install and use in django project.
+Installations part
+1.pip install django_ckeditor
+2.go to settings.py add in Installed_Apps
+3.go to the models.pi import CKeditor
+4.Use ck editor in table attribute whichever u needed
+Desc=models.RichTextField()
+
+For more details search in Google CK editor 
